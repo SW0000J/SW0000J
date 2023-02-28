@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 ## 🎓 Education 🎓
- - BE, Computer Science and Engineering in KyungHee University (2019.03. ~ 2023.02.)
+ - BE, Computer Science and Engineering in Kyung Hee University (2019.03. ~ 2023.02.)
  - SeGyeong High School (2016.03. ~ 2019.02.)
  - Jisan Middle School (2013.03. ~ 2016.02.)
 
