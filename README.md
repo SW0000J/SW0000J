@@ -24,15 +24,15 @@ Here are some ideas to get you started:
 
 
 ## 🎓 Education 🎓
- - KyungHee University, Computer Science and Engineering (2019.03. ~ )
+ - BE, Computer Science and Engineering in KyungHee University (2019.03. ~ 2023.02.)
  - SeGyeong High School (2016.03. ~ 2019.02.)
  - Jisan Middle School (2013.03. ~ 2016.02.)
 
 
 ## 💻 My Tech 💻
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SW0000J&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 ![Python](https://img.shields.io/badge/Python-3766AB?style=round-square&logo=Python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=round-square&logo=Node.js&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=round-square&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=round-square&logo=C++&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=round-square&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=round-square&logo=CSS3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=white) ![Amazon AWS](https://img.shields.io/badge/AmazonAWS-232F3E?style=round-square&logo=AmazonAWS&logoColor=white)
 
 
